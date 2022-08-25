@@ -1,0 +1,30 @@
+.top-container-father {
+    display: flex;
+    justify-content: left;
+}
+.top-container-child {
+    width: 200px;
+    height: 200px;
+    
+    background-color: lightblue;
+}
+.middle-container-father {
+    display: flex;
+    justify-content:left;
+}
+.middle-container-child {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+.bottom-container-father {
+    display: flex;
+    justify-content: left ;
+}
+.bottom-container-child {
+    width: 200px;
+    height: 200px;
+
+    background-color: blue;
+}
